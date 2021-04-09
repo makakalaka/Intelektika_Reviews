@@ -1,0 +1,13 @@
+The trip was awesome;0.9832563;0.01674367
+The trip was not one to enjoy;0.9486776;0.05132243
+The trip was not one to enjoy;0.9486776;0.05132243
+The trip was not awesome;0.3951131;0.6048869
+I was pleasantly suprised;0.9905138;0.009486213
+I was grossed out;0.8389884;0.1610117
+I had a wonderful time;0.9172344;0.0827656
+I had a bad time;0.02228267;0.9777173
+The time spent was a waste;0.2754808;0.7245192
+I was furious that the beds werent made;0.008172661;0.9918274
+The room was charming;0.9703657;0.02963431
+The yard space was super vast;0.9701859;0.02981405
+The yard space was super terrible;0.3982558;0.6017442
